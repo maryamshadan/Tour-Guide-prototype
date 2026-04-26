@@ -1,0 +1,10 @@
+{
+  "name": "TourGuide",
+  "description": "An offline-first smart guide and personal safety companion for heritage sites in Telangana, featuring AI landmark recognition and SOS safety protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
